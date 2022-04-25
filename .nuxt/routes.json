@@ -1,0 +1,86 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\nuxtjs\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\nuxtjs\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\nuxtjs\\\\pages\\\\register.vue",
+    "chunkName": "pages/register"
+  },
+  {
+    "name": "register-success",
+    "path": "/register-success",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\nuxtjs\\\\pages\\\\register-success.vue",
+    "chunkName": "pages/register-success"
+  },
+  {
+    "name": "upload",
+    "path": "/upload",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\nuxtjs\\\\pages\\\\upload.vue",
+    "chunkName": "pages/upload"
+  },
+  {
+    "name": "dashboard-transactions",
+    "path": "/dashboard/transactions",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\nuxtjs\\\\pages\\\\dashboard\\\\transactions.vue",
+    "chunkName": "pages/dashboard/transactions"
+  },
+  {
+    "name": "transaction-error",
+    "path": "/transaction/error",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\nuxtjs\\\\pages\\\\transaction\\\\error.vue",
+    "chunkName": "pages/transaction/error"
+  },
+  {
+    "name": "transaction-finish",
+    "path": "/transaction/finish",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\nuxtjs\\\\pages\\\\transaction\\\\finish.vue",
+    "chunkName": "pages/transaction/finish"
+  },
+  {
+    "name": "transaction-unfinish",
+    "path": "/transaction/unfinish",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\nuxtjs\\\\pages\\\\transaction\\\\unfinish.vue",
+    "chunkName": "pages/transaction/unfinish"
+  },
+  {
+    "name": "dashboard-projects-create",
+    "path": "/dashboard/projects/create",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\nuxtjs\\\\pages\\\\dashboard\\\\projects\\\\create.vue",
+    "chunkName": "pages/dashboard/projects/create"
+  },
+  {
+    "name": "dashboard-projects-id",
+    "path": "/dashboard/projects/:id",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\nuxtjs\\\\pages\\\\dashboard\\\\projects\\\\_id\\\\index.vue",
+    "chunkName": "pages/dashboard/projects/_id/index"
+  },
+  {
+    "name": "dashboard-projects-id-edit",
+    "path": "/dashboard/projects/:id?/edit",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\nuxtjs\\\\pages\\\\dashboard\\\\projects\\\\_id\\\\edit.vue",
+    "chunkName": "pages/dashboard/projects/_id/edit"
+  },
+  {
+    "name": "projects-id",
+    "path": "/projects/:id?",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\nuxtjs\\\\pages\\\\projects\\\\_id.vue",
+    "chunkName": "pages/projects/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\nuxtjs\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
