@@ -23,7 +23,7 @@ module.exports = {
     variants : {},
     plugins : [],
     purge : {
-      enabled: process.env.NODE.ENV === 'production',
+//       enabled: process.env.NODE.ENV === 'production',
       content : [
         './assets/**/*.{vue,js,css}',
     './components/**/*.{vue,js}',
