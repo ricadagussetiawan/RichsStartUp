@@ -49,7 +49,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: 'https://c008ftp.cloudclusters.net',
+    baseURL: 'http://localhost:8080',
   },
 
   auth: {
