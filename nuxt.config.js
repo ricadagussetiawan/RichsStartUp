@@ -50,7 +50,7 @@ export default {
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
     // Workaround to avoid enforcing hard-coded localhost:3000: https://github.com/nuxt-community/axios-module/issues/308
-    baseURL: 'https://6fa2-180-243-81-0.ngrok.io/bwastartup'
+    baseURL: 'localhost:8080'
   },
 
   auth: {
