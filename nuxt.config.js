@@ -49,7 +49,8 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: 'mysql-77792-0.cloudclusters.net',
+//     baseURL: 'mysql-77792-0.cloudclusters.net',
+    baseURL: 'http://localhost:8080',
   },
 
   auth: {
